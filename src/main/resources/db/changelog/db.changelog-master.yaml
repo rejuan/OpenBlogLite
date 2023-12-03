@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: v1.0.0/add_tag_table.yaml
+      relativeToChangelogFile: true
